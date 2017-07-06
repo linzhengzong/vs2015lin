@@ -5,7 +5,7 @@
 
 int main()
 {
-	int var = 1;
+	int var = 2;
     return 0;
 }
 
